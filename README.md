@@ -6,4 +6,4 @@ a wanna be blog post
 ### #containers
 (default)
 
-### #extension
+### #extensions
